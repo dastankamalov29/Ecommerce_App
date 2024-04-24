@@ -6,7 +6,6 @@ Ecommerce App
 
 Stack: flutter</p> 
 Provider, GAP</p>
-Flutter_slidable</p>
 Screens: 
 
 <p float="left">
